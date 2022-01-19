@@ -1,0 +1,6 @@
+Môi trường code: Visual Studio Code
+Ngôn ngữ:
+	HTML
+	CSS/SCSS
+	JS
+	JQuery
